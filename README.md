@@ -1,2 +1,2 @@
 # Analysez-les-ventes-d-une-librairie
-Projet Openclassrooms
+Projet Openclassrooms Analyse de données
